@@ -1,5 +1,4 @@
-Input 
-
+Assembly Input 
 mov r1, 5
 mov r2, 10
 add r3, r1, r2
@@ -19,3 +18,14 @@ output :
 0101011100010002
 1001100000000000
 
+Test case  2 :
+
+add R1 R2 R3
+sub R4 R5 R6
+mul R0 R1 R2
+
+Output 
+
+00000 000 001 010
+00001 100 101 110
+00110 000 001 010
